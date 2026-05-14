@@ -22,7 +22,7 @@ A self-hosted AI-powered Discord selfbot that generates human-like conversations
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/oguzdeveloper/discord-ai-userbot.git
+git clone https://github.com/oguzdeveloper/Discord-AI-Chat-Bot.git
 cd discord-ai-userbot
 ```
 
