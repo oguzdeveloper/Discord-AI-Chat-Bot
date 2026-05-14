@@ -1,0 +1,17 @@
+{
+  "name": "self-ai-chat-bot",
+  "version": "1.0.0",
+  "description": "Insancil Discord selfbot with OpenRouter AI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "@deksdeveloper/discord.js-self-bot": "latest",
+    "better-sqlite3": "^12.9.0",
+    "debug": "^4.4.3",
+    "dotenv": "^16.4.7",
+    "node-fetch": "^3.3.2"
+  }
+}
